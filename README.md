@@ -42,6 +42,14 @@ Upon running the program, you will be presented with a menu of options. Simply f
 - To search for an employee, choose option 4 and enter the employee ID.
 - To display all employees, choose option 5.
 
+## Contributors 
+
+1. Rajendran S (asrajendrayadav@gmail.com)
+2. Kevin Patrick S S  (kevinpatrick2k6@gmail.com)
+3. Sanjay karthik S  
+4. Bala Murali M 
+5. Tharun V
+
 ## Contributing
 
 Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request with your changes.
