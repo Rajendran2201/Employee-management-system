@@ -44,8 +44,8 @@ Upon running the program, you will be presented with a menu of options. Simply f
 
 ## Contributors 
 
-1. Rajendran S (asrajendrayadav@gmail.com)
-2. Kevin Patrick S S  (kevinpatrick2k6@gmail.com)
+1. Rajendran S - (asrajendrayadav@gmail.com)
+2. Kevin Patrick S S 
 3. Sanjay karthik S  
 4. Bala Murali M 
 5. Tharun V
